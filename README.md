@@ -10,7 +10,7 @@ Clicking this button will create a new repo for you that looks exactly like this
 Click the 'Use the Template' button at the top of this repo. Then install the Netlify CLI tool and run `netlify init`. Or straight from the Netlify CLI, use the `netlify sites:create-template` command in you terminal ([learn more about this command here](https://www.netlify.com/blog/create-a-site-from-a-template-using-the-netlify-cli)) to do the entire flow for you.
 
 ```bash
-git clone [https://github.com/Win7Fan/test-site]
+git clone https://github.com/Win7Fan/test-site
 
 npm install netlify-cli -g # to install the Netlify CLI tool globally
 
